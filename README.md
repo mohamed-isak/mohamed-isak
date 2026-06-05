@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-isak" alt="mohamed-isak" /></a> </p>
 
-- 🔭 I’m currently working on **Relevantz**
+- 🔭 I’m currently working on **Expleo**
 
 - 🌱 I’m currently learning **Next Js**
 
